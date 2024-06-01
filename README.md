@@ -14,6 +14,9 @@
 
 ## 赛事信息
 
+- [如何添加赛事信息](./add-a-hackathon.md)
+- [如何发起组队](./find-your-team-member.md)
+
 ### “千帆杯”AI 原生应用 教育生态行业赛
 
 - [赛事链接](https://cloud.baidu.com/qianfandev/topic/269711)
