@@ -1,6 +1,6 @@
 # Koala 开源俱乐部
 
-<p style="text-align: center;">
+<p align="center">
   <img src="./logo.png" width="150px" alt="logo" />
 </p>
 
