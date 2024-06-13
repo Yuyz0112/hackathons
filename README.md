@@ -114,3 +114,20 @@ gantt
         封闭开发: 2024-06-22T00:00, 2024-06-23T00:00
         决赛路演: 2024-06-23T00:00, 2024-06-24T00:00
 ```
+
+### Mozilla Builders
+
+- [项目链接](https://future.mozilla.org/builders/)
+- 总奖金：高达 100,000 美元的非稀释资金(up to $100,000 in non-dilutive funding)
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat  YYYY-MM-DDTHH:mm
+
+    section 赛程
+        Early Application: 2024-06-03, 2024-06-08
+        Final Application: 2024-06-03, 2024-08-01
+        12-week program: 2024-09-12, 2024-12-05
+        Demo Day: 2024-12-05, 2024-12-05
+```
