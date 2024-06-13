@@ -123,7 +123,7 @@ gantt
 ```mermaid
 gantt
     title 时间线
-    dateFormat  YYYY-MM-DDTHH:mm
+    dateFormat  YYYY-MM-DD
 
     section 赛程
         Early Application: 2024-06-03, 2024-06-08
