@@ -131,3 +131,20 @@ gantt
         12-week program: 2024-09-12, 2024-12-05
         Demo Day: 2024-12-05, 2024-12-05
 ```
+
+### gitee AI & 天数智芯 AI 创新应用大赛
+
+- [项目链接](https://ai.gitee.com/events/iluvatar-ai-app-contest)
+- 总奖金：20 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat  YYYY-MM-DD
+
+    section 赛程
+        报名参赛: 2024-06-01, 2024-07-20
+        提交应用: 2024-07-22, 2024-08-22
+        网络投票: 2024-08-26, 2024-09-06
+        专家评审: 2024-09-07, 2024-09-21
+```
