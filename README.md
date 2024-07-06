@@ -21,6 +21,299 @@
 - [如何添加赛事信息](./add-a-hackathon.md)
 - [如何发起组队](./find-your-team-member.md)
 
+### 基于信创的工具库开发大赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_XPlaza_tool)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-06-28, 2024-09-20
+        竞赛:  2024-06-28, 2024-10-14
+```
+
+### 基于信创的创新应用开发大赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_XPlaza_application)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-07-01, 2024-09-20
+        竞赛:  2024-07-01, 2024-10-14
+```
+
+### 开源供应链安全挖掘赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track4_datadigging)
+- 总奖金：6.5 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-04-01, 2024-09-20
+        竞赛:  2024-04-01, 2024-10-14
+```
+
+### ModelScope 开源模型应用挑战赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track2_ModelScope)
+- 总奖金：6 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-17, 2024-09-20
+        竞赛:  2024-05-17, 2024-11-30
+```
+
+### Bio-OS 开源任务挑战赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track2_Bio-OS)
+- 总奖金：31.5 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-27, 2024-09-20
+        初赛:  2024-05-27, 2024-09-20
+        决赛评审:  2024-10-01, 2024-10-10
+```
+
+### 智能化开源漏洞工程赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track4_vulnerability)
+- 总奖金：6.5 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-04-01, 2024-09-20
+        竞赛:  2024-04-01, 2024-10-14
+```
+
+### “红山开源”数值仿真-开源任务挑战赛
+
+- [赛事链接](https://www.osredm.com/competition/rjkf)
+- 总奖金：14 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-17, 2024-09-30
+        初赛作品提交:  2024-07-01, 2024-09-30
+        决赛作品提交:  2024-10-01, 2024-10-31
+        决赛评审:  2024-11-01, 2024-11-30
+```
+
+### CrowdOS 开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_CrowdOS)
+- 总奖金：3 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        热身赛:  2024-05-17, 2024-07-28
+        预赛:  2024-08-01, 2024-09-20
+        决赛:  2024-10-07, 2024-10-11
+```
+
+### “红山开源”大模型创意应用-开源任务挑战赛
+
+- [赛事链接](https://www.osredm.com/competition/cyyy)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-17, 2024-09-30
+        初赛作品提交:  2024-07-01, 2024-09-30
+        决赛作品提交:  2024-10-01, 2024-10-31
+```
+
+### RepoSyncer 跨平台同步项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_RepoSyncer)
+- 总奖金：8 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-04-01, 2024-09-20
+        竞赛:  2024-04-01, 2024-10-14
+```
+
+### “红山开源”大模型基础能力提升-开源任务挑战赛
+
+- [赛事链接](https://www.osredm.com/competition/zswd)
+- 总奖金：20 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-17, 2024-09-30
+        初赛、决赛作品提交:  2024-07-01, 2024-10-31
+        颁奖: 2024-11-01, 2024-11-30
+```
+
+### 昇思 MindSpore 开源任务挑战赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track2_MindSpore)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-27, 2024-09-20
+        初赛:  2024-05-27, 2024-09-20
+        决赛评审:  2024-10-01, 2024-10-10
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
+### Cantian 开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_Cantian)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-06-01, 2024-09-20
+        初赛:  2024-06-01, 2024-09-20
+        决赛:  2024-10-14, 2024-10-18
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
+### openEuler 开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_openEuler)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-27, 2024-09-20
+        初赛:  2024-05-27, 2024-09-20
+        决赛:  2024-10-11, 2024-10-18
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
+### 香山核开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_xiangshanhe)
+- 总奖金：3.3 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名:  2024-05-27, 2024-09-20
+        初赛:  2024-05-27, 2024-09-20
+        决赛评审:  2024-10-01, 2024-10-10
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
+### openInula 开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_openInula)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名截止:  2024-09-20
+        初赛:  2024-06-01, 2024-09-20
+        初赛评审:  2024-09-23, 2024-09-30
+        初赛结果公布: 2024-10-09
+        决赛评审:  2024-10-14, 2024-10-18
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
+### OpenTiny 开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_openTiny)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名截止:  2024-09-20
+        初赛:  2024-05-27, 2024-09-20
+        初赛评审:  2024-09-21, 2024-09-30
+        决赛评审:  2024-10-01, 2024-10-10
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
+### OpenHarmony 应用开发-开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_OpenHarmony_kaihong)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名截止:  2024-09-20
+        初赛:  2024-05-27, 2024-09-20
+        初赛评审:  2024-09-21, 2024-09-30
+        决赛评审:  2024-10-01, 2024-10-10
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
+### OpenHarmony 操作系统-开源项目贡献赛
+
+- [赛事链接](https://www.gitlink.org.cn/competitions/track1_OpenHarmony_Huawei)
+- 总奖金：10 万元
+
+```mermaid
+gantt
+    title 时间线
+    dateFormat YYYY-MM-DD
+    section 赛程
+        报名截止:  2024-09-20
+        初赛:  2024-05-27, 2024-09-20
+        初赛评审:  2024-09-21, 2024-09-30
+        决赛评审:  2024-10-01, 2024-10-10
+        颁奖典礼: 2024-11-01, 2024-11-30
+```
+
 ### 2024 开源之夏
 
 - [赛事链接](https://summer-ospp.ac.cn/)
